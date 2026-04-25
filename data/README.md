@@ -2,7 +2,7 @@
 
 **Nombre:** Datos Horarios de Contaminantes del Aire en Lima Metropolitana
 **Fuente:** SENAMHI / Plataforma Nacional de Datos Abiertos
-**URL:** https://www.datosabiertos.gob.pe/dataset/datos-horarios-de-contanimantes-del-aire-en-limametropolitana-servicio-nacional-de
+**URL:** https://www.datosabiertos.gob.pe/dataset/monitoreo-de-los-contaminantes-del-aire-en-lima-metropolitana-servicio-nacional-de
 
 ## Instrucciones
 1. Descarga el archivo CSV desde la URL de arriba
