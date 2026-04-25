@@ -1,0 +1,28 @@
+# Dataset (archivos pesados)
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+
+# OS
+.DS_Store
+Thumbs.db
