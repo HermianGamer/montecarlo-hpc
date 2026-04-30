@@ -8,13 +8,11 @@
 
 ## 👥 Integrantes
 
-| Nombre completo | Rol en el proyecto |
-|---|---|
-| Apellido, Nombre 1 | Introducción y contexto |
-| Apellido, Nombre 2 | Estado del arte |
-| Apellido, Nombre 3 | Dataset y exploración |
-| Scarpati, Gianfranco | Metodología y arquitectura |
-
+| Nombre completo 
+Scarpati, Gianfranco
+Santiago, Wiesse
+Rojas, Priscila
+Abel, Montes
 ---
 
 ## 📌 Descripción del Proyecto
